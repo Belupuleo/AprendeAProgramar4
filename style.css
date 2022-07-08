@@ -1,0 +1,95 @@
+.cabecera{
+    background-color: white;
+    border:2px solid black;
+    border-radius: 10px;
+    filter: opacity(76%);
+}
+
+.Texto1{
+    width:80%;
+    position: relative;
+    margin: auto;
+    font-family:"Lucida Console";
+    font-style: italic;
+    font-size:300%;
+    text-align:justify;
+    text-align:center;
+    padding-top: 30px;
+
+}
+
+#p_texto1{
+    text-align:center;
+    padding-bottom: 20px;
+    font-family: "Verdana";
+    font-size: 200%;
+
+}
+
+.cuerpo{
+     position: relative;
+     background-image: url("MARGA.jpg");
+     backdrop-filter: contrast(40%);
+}
+
+.contenedor { 
+    position: relative;
+    background-color: white;
+    top: 30px;
+    width: 62%;
+    left: 3px;
+    display: grid;
+    grid-template-columns: 60% auto;
+    border-radius: 10px;
+    border:2px solid black;
+    padding: 20px;
+    margin: 5px;
+}
+
+.imagen1{
+    position: relative;
+    top:30px;
+    margin:5px;
+}
+
+.imagen1a{
+    position: absolute;
+    right: 0px;
+    width: 36%;
+    border-radius: 10px;
+    border:2px solid black;
+}
+
+
+.hobbies{
+    padding:30px;
+}
+
+.hobbies li{
+    list-style: circle;
+    margin: 3px;
+}
+
+#texto2{
+    padding: 10px;
+    width:95%;
+    font-size:130%;
+    text-align:justify;
+    font-family: 'Times New Roman', Times, serif;
+    border:2px solid rgb(165, 165, 165);
+}
+
+#p_texto2{
+    text-align:center;
+}
+
+
+.imagenes{
+    width: 130%;
+    border-radius: 10px;
+}
+
+.carro{
+    margin: 5px;
+}
+
